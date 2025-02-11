@@ -5,7 +5,7 @@ function Body() {
   return (
     <div className='container-body'>
         <p></p>
-        <center><h1>Página Principal</h1></center>
+        <center><h1>Easy Check</h1></center>
         <Demo1/>
     </div>
   )
