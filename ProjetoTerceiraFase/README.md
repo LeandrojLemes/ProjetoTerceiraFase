@@ -1,8 +1,20 @@
-# React + Vite
+# EASY CHECK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Integrantes
 
-Currently, two official plugins are available:
+Leandro Lemes, André Arantes,André Luiz, Ana Maria,Leo Jaime
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Descrição
+
+Quanto vale o seu tempo? E quanto vale a segurança dos seus funcionários?
+
+Com o Easy Check, facilitamos o seu trabalho. Você não vai mais perder horas analisando documentação e nem correr o risco de ter funcionários inaptos trabalhando. Nosso aplicativo utiliza a tecnologia de QR code para simplificar todo o processo de verificação de documentos.
+
+Cada funcionário possui um crachá com um QR code único. Ao escanear esse código com o Easy Check, o aplicativo verifica instantaneamente se todos os documentos necessários estão atualizados e em conformidade com as normas de segurança. Em questão de segundos, você sabe se o funcionário está apto para ingressar na obra ou se precisa atualizar algum documento.
+
+Isso significa uma economia significativa de tempo e uma garantia de que apenas funcionários com a documentação correta estarão trabalhando. Com o Easy Check, você pode focar no que realmente importa: a segurança e a eficiência da sua obra.
+
+Experimente o Easy Check e veja a diferença que ele pode fazer no seu dia a dia. Ganhando tempo e garantindo a segurança da sua equipe, você estará investindo no sucesso do seu projeto.
+
+Baixe já o seu aplicativo!
+
