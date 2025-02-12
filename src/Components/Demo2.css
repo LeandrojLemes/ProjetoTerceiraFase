@@ -1,0 +1,14 @@
+.botao-diminuir{
+    color: red;
+}
+
+.botao-aumentar{
+
+    color: green;
+    display: flex;
+    justify-content: center;
+
+}
+.numero-contador{
+    color: rgb(16, 16, 11);
+}

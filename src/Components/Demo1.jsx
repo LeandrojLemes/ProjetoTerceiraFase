@@ -1,4 +1,5 @@
 import './Demo1.css'
+import { CgAddR } from "react-icons/cg";
 
 function Demo1() {
   function responderClick(){
@@ -8,9 +9,10 @@ function Demo1() {
 
   return (
     <div className='container-demo1'>
-     <button onClick={responderClick}>Clique aqui</button>
-     <button onClick={() => {alert("Flecha")}}> ➡ </button>
-     <img src="./Imagens/logo.svg" alt="" />
+     <button onClick={responderClick}>Adicionar</button>
+     <button onClick={() => {alert("Adicionado a lista")}}> <CgAddR/> </button>
+   
+
     </div>
   )
 };
