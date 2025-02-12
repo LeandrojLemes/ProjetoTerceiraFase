@@ -6,9 +6,9 @@
 
 ### Integrantes
 
-[Leandro Lemes] (https://github.com/LeandrojLemes)
-[André Arantes] (https://github.com/arantesandre)
-[Léo Jaime] (https://github.com/LeoJaime-92)
+-[Leandro Lemes](https://github.com/LeandrojLemes)
+-[André Arantes](https://github.com/arantesandre)
+-[Léo Jaime](https://github.com/LeoJaime-92)
 
 
 ## Descrição
