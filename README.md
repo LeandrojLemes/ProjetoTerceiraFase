@@ -1,12 +1,12 @@
 # EASY CHECK
 
-##[GitHub](https://github.com/LeandrojLemes/ProjetoTerceiraFase.git)
+## [GitHub](https://github.com/LeandrojLemes/ProjetoTerceiraFase.git)
 
 ### Integrantes
 
-###[Leandro Lemes](https://github.com/LeandrojLemes)
-###[André Arantes](https://github.com/arantesandre)
-###[Léo Jaime](https://github.com/LeoJaime-92)
+### [Leandro Lemes](https://github.com/LeandrojLemes)
+### [André Arantes](https://github.com/arantesandre)
+### [Léo Jaime](https://github.com/LeoJaime-92)
 
 
 ## Descrição
