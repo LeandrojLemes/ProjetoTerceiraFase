@@ -1,0 +1,20 @@
+.container-app{
+    height: 100vh;
+    background-color: rgb(42, 175, 5);
+    display: flex;
+   justify-content: center;
+   background: hsla(0, 0%, 5%, 1);
+
+background: linear-gradient(90deg, hsla(0, 0%, 5%, 1) 0%, hsla(126, 82%, 33%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(0, 0%, 5%, 1) 0%, hsla(126, 82%, 33%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(0, 0%, 5%, 1) 0%, hsla(126, 82%, 33%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#0C0C0C", endColorstr="#0F971C", GradientType=1 );
+}
+
+.emoji{
+
+    font-size: 100px;
+}
